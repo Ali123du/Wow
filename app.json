@@ -9,17 +9,17 @@
     "env": {
         "SESSION": {
             "description": "ضع كود التيرمكس الذي استخرجته من بوت الجوكر",
-            "value": "",
+            "value": "1BJWap1wBu3Xv83nZaPFeBTY5hVY5tsr3GDlzHWyBonVheErQNbuhxEkXOchf2LFhyr73mD2tXw1L9w3L35vwiDo0rK7obZRYHy4kgFPuPvfJLy2VHTi95mlRbvqNtNVod8SnWjeCoOlQvHdDBJs89q_Ct7177tG3yIM9gZQ51pUI5kufJkG3-_PIyVWboLuneRZDQH1sIIRvDwUndOUmsW8u6ZRIVwWyIcDBfMniN3Ys34bHNWUcqz7J-gbKde_bffVwnL3ErLn87PnDPS-DvKl8B-HUcnoj4SIrfyF-gNrVI7vb2TzE9Tc4kbt7EzjTU-L91KR-8CBALwbHlmYnSbUONK9pcXI=",
             "required": true
         },
         "APP_ID": {
             "description": "ضع ابب ايدي المكون من 6 ارقام",
-            "value": "",
+            "value": "24244328",
             "required": true
         },
         "APP_HASH": {
             "description": "ضع ابب هاش المكون من ارقام وحروف",
-            "value": "",
+            "value": "5a85176746538244413820ed2f9e35c0",
             "required": true
         }
     },
